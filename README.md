@@ -5,7 +5,6 @@ This project performs real-time face detection using a Deep Neural Network (DNN)
 ## Features
 - Real-time webcam feed
 - Face detection using a pretrained DNN model
-- Press `s` to take a screenshot (saved in the `screenshots` folder)
 - Press `q` to exit the application
 
 ## Requirements
